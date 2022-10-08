@@ -1,0 +1,10 @@
+Lesson 2 assignment 
+
+5. Two additional case studies that I tested for my linked list are if the number entered in the function argument is 0, that would mean basically the list would be printed empty because all numbers are greater than 0. Another test case that I wrote was if the number entered in the function argument was 21, this broke my code so I had to make some changes to fix it, my code broke because 21 is less than the first 3 numbers in the list so I fixed this problem by adding a counter and an additional else if statement to my while loop.
+
+6. Singly linked list time and space complexity : 
+Time
+Insertion = O(1),   Deletion = O(1),  Indexing = O(n),  Search = O(n)
+
+Space
+Space = O(n)

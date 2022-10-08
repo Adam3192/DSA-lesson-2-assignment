@@ -93,7 +93,7 @@ class Node {
  ll.insertLast(13);
  ll.insertLast(16);
  
- ll.removeGreaterThan(21);
+ ll.removeGreaterThan(50);
 
  ll.printListData();
  
